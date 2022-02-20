@@ -39,6 +39,7 @@ Uma classe que tende a crescer "para sempre" é uma forte candidata a sofrer alg
 #### L iskov Substitution Principle
 Que o Princípio de Substituição de Liskov (LSP) diz que devemos poder substituir classes base por suas classes derivadas em qualquer lugar, sem problema
 #### I nterface Segregation Principle
+Uma classe não deve ser obrigada a implementar um método de determinada interface, se ele não será útil. Para isso, uma interface deverá ser extraída apenas com os métodos necessários.
 #### D ependency Inversion Principle
 -------------------------------------------------------------------------------
 ## Principios de OOP
