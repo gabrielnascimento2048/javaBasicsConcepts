@@ -39,11 +39,17 @@ Hierarquia
 ### Coesão 
 Classes não coesas tendem a crescer indefinitivamente, o que as tornam dificeis de manter.
 Uma classe que executa bem a sua única tarefa, de forma concisa.
+Classes coesas não devem ter várias responsabilidades.
 ### Encapsulamento
 Classes não encapsuladas permitem violação de regras de negócio, além de aumentarem o acoplamento.
  Getters e setters por si só não fornecem nenhum tipo de encapsulamento.
  Encapsulamento ajuda no uso correto dos objetos.
+Getters e setters não são formas eficientes de aplicar encapsulamento
+É interessante fornecer acesso apenas ao que é necessário em nossas classes
+O encapsulamento torna o uso das nossas classes mais fácil e intuitivo
 
 ### Acoplamento
 Classes acopladas causam fragilidade no Código da aplicação, o que difiulta sua manutenção.
-
+Acoplamento é a dependência entre classes
+Acoplamento nem sempre é ruim, e que é impossível criar um sistema sem nenhum acoplamento
+Devemos controlar o nível de acoplamento na nossa aplicação
