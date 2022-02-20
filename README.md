@@ -44,6 +44,6 @@ Classes não encapsuladas permitem violação de regras de negócio, além de au
  Getters e setters por si só não fornecem nenhum tipo de encapsulamento.
  Encapsulamento ajuda no uso correto dos objetos.
 
-Acoplamento
-
+### Acoplamento
+Classes acopladas causam fragilidade no Código da aplicação, o que difiulta sua manutenção.
 
