@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.aula11;
+package fizzBuzz;
 
 public class VariaveisInteiras {
 

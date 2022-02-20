@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.aula13;
+package fizzBuzz;
 
 public class OperadoresLogicos {
 
@@ -8,10 +8,10 @@ public class OperadoresLogicos {
 		int valor2 = 2;
 		
 		boolean resultado1 = (valor1==1)&&(valor2==2);
-		System.out.println("valor1 é 1 AND valor2 é 2 - resultado: " + resultado1);
+		System.out.println("valor1 ï¿½ 1 AND valor2 ï¿½ 2 - resultado: " + resultado1);
 
 		boolean resultado2 = (valor1==1) || (valor2==2);
-		System.out.println("valor1 é 1 OR valor2 é 2 - resultado: " + resultado2);
+		System.out.println("valor1 ï¿½ 1 OR valor2 ï¿½ 2 - resultado: " + resultado2);
 */
 		boolean verdadeiro = true;
 		boolean falso = false;

@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.aula12;
+package fizzBuzz;
 
 import java.util.Scanner;
 
@@ -10,19 +10,19 @@ public class LeituraDadosTeclado {
 		
 		System.out.println("Digite seu nome completo: ");
 		String nomeCompleto = scan.nextLine();
-		System.out.println("Seu nome completo é: " + nomeCompleto);
+		System.out.println("Seu nome completo ï¿½: " + nomeCompleto);
 
 		System.out.println("Digite seu Primeiro nome : ");
 		String primeiroCompleto = scan.next();
-		System.out.println("Seu primeiro nome é: " + primeiroCompleto);
+		System.out.println("Seu primeiro nome ï¿½: " + primeiroCompleto);
 		
 		System.out.println("Digite a sua idade");
 		int idade = scan.nextInt();
-		System.out.println("Sua idade é:" +idade);
+		System.out.println("Sua idade ï¿½:" +idade);
 	
 		System.out.println("Digite a sua altura");
 		double altura = scan.nextDouble();
-		System.out.println("Sua altura é:" + altura);
+		System.out.println("Sua altura ï¿½:" + altura);
 			
 		System.out.println("Digite seu Nome, idade, quantidade de filhos, altura e se viajou");
 		String nome = scan.next();

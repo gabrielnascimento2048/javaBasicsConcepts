@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.com.aula15;
+package fizzBuzz;
 
 import java.util.Scanner;
 
@@ -19,7 +19,7 @@ public class SwitchCase {
 			System.out.println("Segunda-feira");
 		} else if (diaSemana==3) {
 			
-			System.out.println("Terça-feira");
+			System.out.println("Terï¿½a-feira");
 		} else if (diaSemana==4) {
 			
 			System.out.println("Quarta-feira");
@@ -31,7 +31,7 @@ public class SwitchCase {
 			System.out.println("Sexta-feira");
 		}else if (diaSemana==7) {
 			
-			System.out.println("Sabádo-feira");
+			System.out.println("Sabï¿½do-feira");
 		}
 		
 	}

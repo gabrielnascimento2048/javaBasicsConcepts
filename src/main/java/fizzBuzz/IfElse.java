@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.aula14;
+package fizzBuzz;
 
 import java.util.Scanner;
 
@@ -7,20 +7,8 @@ public class IfElse {
 	public static void main(String[] args) {
 		
 	Scanner scan = new Scanner(System.in);
-	/*System.out.println("Digite a sua idade");
-	int idade = scan.nextInt();
-	
-	if (idade >= 18){
-		
-		System.out.println("É maior de idade");
-	} else {
-		
-		System.out.println("Não é maior de idade");
-	}
-	
-	*/
-		
-	System.out.println("Entre com o preço do Item");
+
+	System.out.println("Entre com o preï¿½o do Item");
 	 double valor = scan.nextDouble();
 	
 	 if(valor<=10) {
@@ -34,7 +22,7 @@ public class IfElse {
 		 System.out.println("Pesquisar mais");
 	 } else {
 		 
-		 System.out.println("Está muito caro");
+		 System.out.println("Estï¿½ muito caro");
 	 }
 	
 	

@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.aula13;
+package fizzBuzz;
 
 public class OperadoresRelacionais {
 

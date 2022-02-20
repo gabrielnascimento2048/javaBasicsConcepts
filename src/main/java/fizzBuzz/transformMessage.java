@@ -1,6 +1,4 @@
-package com.gabriel.cursojava.aula14;
-
-package Utils;
+package fizzBuzz;
 
 
 import java.io.IOException;
@@ -34,10 +32,10 @@ public class messageTransform  extends AbstractMediator {
 
 	private static final Log log = LogFactory.getLog(messageTransform.class);
 
-	private static String queryTag= "«QUERY»";
-	private static String allObjectTag= "«tag»allObject«tag»";
-	private static String singleTag= "«tag»";
-	private static String subQueryTag= "«SUBQUERY»";
+	private static String queryTag= "ï¿½QUERYï¿½";
+	private static String allObjectTag= "ï¿½tagï¿½allObjectï¿½tagï¿½";
+	private static String singleTag= "ï¿½tagï¿½";
+	private static String subQueryTag= "ï¿½SUBQUERYï¿½";
 	private String queryInput = null;
 	private String jdbcName = null;
 	private String payload = null;

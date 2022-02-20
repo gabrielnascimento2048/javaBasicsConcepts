@@ -1,11 +1,11 @@
-package com.gabriel.cursojava.aula11;
+package fizzBuzz;
 
 public class SequenciaEscape {
 
 	public static void main(String[] args) {
 	//"Hello, World!"
 		
-		System.out.println("\"Administração de Sistemas!\"\n\r");
+		System.out.println("\"Administraï¿½ï¿½o de Sistemas!\"\n\r");
 		System.out.println("1\\4");
 	}
 

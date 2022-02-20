@@ -1,4 +1,6 @@
-public class Test {
+package fizzBuzz;
+
+public class ForFIZZ {
     public static void main(String[] args) {
 
 

@@ -1,3 +1,5 @@
+package fizzBuzz;
+
 import objectConcept.employee;
 
 import java.util.Locale;

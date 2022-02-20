@@ -1,4 +1,4 @@
-package com.gabriel.cursojava.aula10;
+package fizzBuzz;
 
 public class Variaveis {
 
