@@ -81,7 +81,8 @@ Os conceitos aprendidos formam o acrônimo SOLID
 
 #### COMPORTAMENTAIS (mais usados)
 ###### 1.Strategy
-Este padrão pode ser utilizado quando há diversos possíveis algoritmos para uma ação (como calcular imposto, por exemplo). Nele, nós separamos cada um dos possíveis algoritmos em classes separadas
+Este padrão pode ser utilizado quando há diversos possíveis algoritmos para uma ação (como calcular imposto, por exemplo). Nele, nós separamos cada um dos possíveis algoritmos em classes separadas. 
+A classe não ficar acoplada a implementação, mas sim a abstração ao conceito da interface.
 ###### 2.Chain of Responsiblity
 ###### 3.Template Method
 ###### 4. Template Method 
