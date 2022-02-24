@@ -76,3 +76,19 @@ Os conceitos aprendidos formam o acrônimo SOLID
 #### Liskov Substitution Principle
 #### Interface Segregation Principle
 #### Dependency Inversion Principle
+
+## DESIGN PATTERNS
+
+#### COMPORTAMENTAIS (mais usados)
+###### 1.Strategy
+Este padrão pode ser utilizado quando há diversos possíveis algoritmos para uma ação (como calcular imposto, por exemplo). Nele, nós separamos cada um dos possíveis algoritmos em classes separadas
+###### 2.Chain of Responsiblity
+###### 3.Template Method
+###### 4. Template Method 
+###### 5. State
+###### 6. Command
+###### 7. Observer
+#### CRIACIONAIS
+
+#### ESTRUTURAIS
+
