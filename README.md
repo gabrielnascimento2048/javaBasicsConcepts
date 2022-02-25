@@ -3,7 +3,10 @@
 Um objeto é uma entidade com fronteira e identidade bem definidas que encapsulam o estado e comportamento. 
 
 
-Um atributo representa as informações que o objeto pode ter. 
+Um atributo representa as informações que o objeto pode ter.
+
+#### Composição vs Herança
+De forma geral a herança deve ser pouco utilizada. Atualmente a composição é considerada muito superior à herança na maioria dos casos pois entre as suas principais vantagens a composição permite mudar a associação entre classes em tempo de execução, os objetos podem assumir mais de um comportamento, os projetos são mais simples e reutilizáveis, além de descartar os problemas envolvendo a herança como o acoplamento entre as classes e outros problemas discutidos. A composição é utilizada em diversos Padrões de Projetos comprovando assim a sua grande utilidade e uso no desenvolvimento de projetos melhores.
 
 
 
